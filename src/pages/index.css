@@ -10,6 +10,48 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
-@import url();
-@import url();
-@import url();
+
+@import url(../blocks/offering/offering.css);
+@import url(../blocks/offering/__text/offering__text.css);
+@import url(../blocks/offering/__plus/offering__plus.css);
+@import url(../blocks/offering/__merculov/offering__merculov.css);
+@import url(../blocks/offering/__list/offering__list.css);
+@import url(../blocks/offering/__checkmark/offering__checkmark.css);
+
+@import url(../blocks/telegramm-link/telegramm-link.css);
+
+@import url(../blocks/instruction/instruction.css);
+@import url(../blocks/instruction/__title/instruction__title.css);
+@import url(../blocks/instruction/__text/instruction__text.css);
+@import url(../blocks/instruction/__foto/instruction__foto.css);
+
+@import url(../blocks/how-it-works/how-it-works.css);
+@import url(../blocks/how-it-works/__text/how-it-works__text.css);
+@import url(../blocks/how-it-works/__steps/how-it-works__steps.css);
+@import url(../blocks/how-it-works/__step/how-it-works__step.css);
+@import url(../blocks/how-it-works/__info-foto/how-it-works__info-foto.css);
+@import url(../blocks/how-it-works/__hidden-text/how-it-works__hidden-text.css);
+
+@import url(../blocks/slider/slider.css);
+
+@import url(../blocks/profit/profit.css);
+@import url(../blocks/profit/__text/profit__text.css);
+@import url(../blocks/profit/__point/profit__point.css);
+@import url(../blocks/profit/__image/profit__image.css);
+
+
+@import url(../blocks/for-whom/for-whom.css);
+@import url(../blocks/for-whom/__title/for-whom__title.css);
+@import url(../blocks/for-whom/__text/for-whom__text.css);
+@import url(../blocks/for-whom/__point/for-whom__point.css);
+@import url(../blocks/for-whom/__list/for-whom__list.css);
+@import url(../blocks/for-whom/__image/for-whom__image.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__sertificate/footer__sertificate.css);
+@import url(../blocks/footer/__requisites/footer__requisites.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__links-line/footer__links-line.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
