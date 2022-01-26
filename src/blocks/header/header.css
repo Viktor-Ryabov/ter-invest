@@ -1,0 +1,34 @@
+.header {
+  margin: 0 0 56px 0;
+  padding: 28px 0 0 0;
+  min-width: 92.5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2a2c2f;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1024px),
+  screen and (max-device-width: 1279px) and (min-device-width: 1024px) {
+  .header {
+    min-width: 90.625%;
+    margin-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px),
+  screen and (max-device-width: 1023px) and (min-device-width: 768px) {
+  .header {
+    min-width: 93.75%;
+    margin-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 767px), screen and (max-device-width: 767px) {
+  .header {
+    min-width: 90%;
+    margin-bottom: 48px;
+    padding-top: 16px;
+  }
+}

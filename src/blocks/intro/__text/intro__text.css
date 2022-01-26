@@ -1,0 +1,28 @@
+.intro__text {
+  margin: 0;
+  padding: 0 0 33px 0;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+  color: #ffffff;
+  max-width: 690px;
+  text-align: left;
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px),
+  screen and (max-device-width: 1023px) and (min-device-width: 768px) {
+  .intro__text {
+    min-width: 720px;
+    margin: 0 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 767px), screen and (max-device-width: 767px) {
+  .intro__text {
+    margin: 0 16px 0 16px;
+    max-width: 720px;
+    min-width: 288px;
+  }
+}
