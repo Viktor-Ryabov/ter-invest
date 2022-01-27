@@ -1,4 +1,7 @@
-.header__link{
+.header__link {
+    color: rgb(0, 114, 188);
+}
+
+.header__link_last {
     text-decoration: none;
-    color: #FFFFFF;
 }

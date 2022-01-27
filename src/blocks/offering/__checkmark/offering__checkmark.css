@@ -1,3 +1,13 @@
-.offering__checkmark{
-    
+.offering__checkmark {
+  margin: 0;
+  padding: 0 14px 0 0;
+  max-width: 43px;
+  max-height: 43px;
+}
+
+@media screen and (max-width: 890px) {
+  .offering__checkmark {
+    max-width: 25px;
+    max-height: 25px;
+  }
 }

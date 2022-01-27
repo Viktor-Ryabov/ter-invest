@@ -21,3 +21,11 @@
     font-family: "Inter";
     font-weight: 900;
 }
+
+@font-face {
+    src:
+    url(./__bebas-Neue/BebasNeueRegular.woff) format("woff"),
+    url(./__bebas-Neue/BebasNeueRegular.woff2) format("woff2");
+    font-family: "bebas";
+    font-weight: regular;
+}

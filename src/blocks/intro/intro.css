@@ -1,13 +1,13 @@
 .intro {
-  margin: 0 auto;
+  margin: 0 auto 65px auto;
   padding: 0;
-  padding-bottom: 50px;
-  max-width: 90%;
-  background-color: #2a2c2f;
+  max-width: 100%;
+  background-color: #ffffff;
 
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
 }
 
 @media screen and (max-width: 1279px) and (min-width: 1024px),
@@ -21,13 +21,13 @@
   screen and (max-device-width: 1023px) and (min-device-width: 768px) {
   .intro {
     min-width: 720px;
-    padding-bottom: 88px;
+    margin: 0 auto 40px auto;
   }
 }
 
 @media screen and (max-width: 767px), screen and (max-device-width: 767px) {
   .intro {
     min-width: 288px;
-    padding-bottom: 64px;
+    margin: 0 auto 30px auto;
   }
 }
