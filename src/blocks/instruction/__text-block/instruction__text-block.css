@@ -1,0 +1,15 @@
+.instruction__text-block{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+
+}
+
+@media screen and (max-width: 780px) {
+  .instruction__text-block{
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  }
+}

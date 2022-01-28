@@ -1,5 +1,5 @@
 .offering {
-  margin: 0 40px;
+  margin: 0 40px 65px 40px;
   padding: 0;
   max-width: calc(100% - 80px);
   display: flex;
@@ -11,6 +11,6 @@
 @media screen and (max-width: 890px) {
   .offering {
     max-width: calc(100% - 40px);
-    margin: 0 20px;
+    margin: 0 20px 45px 20px;;
   }
 }

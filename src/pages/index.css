@@ -28,6 +28,7 @@
 @import url(../blocks/instruction/__title/instruction__title.css);
 @import url(../blocks/instruction/__text/instruction__text.css);
 @import url(../blocks/instruction/__foto/instruction__foto.css);
+@import url(../blocks/instruction/__text-block/instruction__text-block.css);
 
 @import url(../blocks/how-it-works/how-it-works.css);
 @import url(../blocks/how-it-works/__text/how-it-works__text.css);
@@ -35,6 +36,7 @@
 @import url(../blocks/how-it-works/__step/how-it-works__step.css);
 @import url(../blocks/how-it-works/__info-foto/how-it-works__info-foto.css);
 @import url(../blocks/how-it-works/__hidden-text/how-it-works__hidden-text.css);
+@import url(../blocks/how-it-works/__title/how-it-works__title.css);
 
 @import url(../blocks/slider/slider.css);
 

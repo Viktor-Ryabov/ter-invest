@@ -34,3 +34,13 @@
   background-color: rgb(12, 85, 211);
   border-color:  rgb(12, 85, 211);
 }
+
+@media screen and (max-width: 890px) {
+  .telegramm-link{
+    padding: 5px 10px;
+    width: 150px;
+    height: 35px;
+    font-size: 10px;
+  }
+}
+
